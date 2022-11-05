@@ -4,6 +4,8 @@ import '../animations/fade_animation.dart';
 import '../widgets/blur_container.dart';
 
 
+
+
 class NFTScreen extends StatelessWidget {
   const NFTScreen({Key? key, required this.image}) : super(key: key);
 
